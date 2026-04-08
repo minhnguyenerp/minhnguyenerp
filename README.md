@@ -48,7 +48,7 @@ DevKit2 is a comprehensive, portable development toolkit for Windows that bundle
 
 Setting up a development environment can take hours or even days. DevKit2 eliminates that pain by providing a **pre-integrated ecosystem of tools**, so you can focus on building instead of configuring.
 
-🔥 One download. Everything ready.
+🔥 [One download](https://github.com/minhnguyenerp/devkit2/releases). Everything ready.
 
 ---
 
