@@ -15,51 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🚀 [DevKit2](https://github.com/minhnguyenerp/devkit2) – All-in-One Portable Development Environment
+# 🚀 [DevKit3](https://github.com/minhnguyenerp/devkit3)
 
-> Stop wasting hours setting up development environments.  
-> DevKit2 gives you everything ready in one setup.
+### Your projects. The right tools. Ready to work.
 
-![Programs](https://raw.githubusercontent.com/minhnguyenerp/devkit2/main/Document/Images/Manual%20Launch.png)
+I'm building **DevKit3**, a desktop workspace for **Windows and Linux** that brings development projects, tools, and local services together in one place.
 
-DevKit2 is a comprehensive, portable development toolkit for Windows that bundles everything you need to build modern applications — from web, backend, database, to game development and system programming.
+An older PHP app, a new Node.js service, a .NET project, or a game prototype—each can have its own tools, versions, and settings. Choose what a project needs, then open it with its development environment prepared.
 
-## ✨ Key Features
+**[Download DevKit3](https://github.com/minhnguyenerp/devkit3/releases/tag/DevKit3)** · **[Explore the project](https://github.com/minhnguyenerp/devkit3)** · **[User manual](https://github.com/minhnguyenerp/devkit3/blob/main/docs/manual.md)**
 
-- ⚡ Ready-to-use: Set up once, start coding instantly
-- 🧰 Full-stack support: Includes Node.js, PHP, .NET, Go, Rust, Java, Python, etc.
-- 🗄️ Databases included: MariaDB, PostgreSQL, SQLite tools
-- 🌐 Web servers: Apache, Nginx, Caddy
-- 🛠️ Build tools: CMake, MSVC, WinLibs, Zig, Nim
-- 🎮 Game engines: Godot, Blender
-- 🧑‍💻 IDE & editors: VSCode, CodeLite, NetBeans, Notepad++
-- 🔌 Microservices-ready: Consul, etcd
-- 📦 Portable & isolated: No system pollution
+## What DevKit3 does
 
-## 🎯 Use Cases
+- **Projects with their own setup.** Group projects and choose their editors, runtimes, SDKs, environment variables, and helper services.
+- **Tools installed when needed.** Download missing portable tool versions automatically and keep different versions available for different projects.
+- **Editors and services launched together.** Open your editor alongside the web servers, databases, and other helpers your project needs.
+- **Standalone app launcher.** Open supported applications without creating a project, using saved launch settings.
+- **Git-backed configuration.** Sync project definitions and password-encrypted secrets across machines, or keep your setup local.
+- **Control over disk usage.** See installed versions and their references, remove unused packages, and clear cached downloads.
 
-- Rapid local development setup
-- Portable dev environment
-- Learning multiple languages
-- DevOps / microservices experimentation
-- Teaching / lab environments
+## A toolbox for different kinds of work
 
-## 💡 Why DevKit2?
+**Languages & SDKs:** PHP, Node.js, .NET, Python, Java, Go, Rust, Flutter, and more.  
+**Editors & IDEs:** VSCode, VSCodium, Visual Studio, Arduino IDE, Zed, Qt Creator, and more.  
+**Servers & databases:** Apache, Nginx, Caddy, MariaDB, PostgreSQL, Consul, and etcd.  
+**Creative tools:** Godot, Blender, FreeCAD, Inkscape, Krita, and Shotcut.
 
-Setting up a development environment can take hours or even days. DevKit2 eliminates that pain by providing a **pre-integrated ecosystem of tools**, so you can focus on building instead of configuring.
-
-🔥 [One download](https://github.com/minhnguyenerp/devkit2/releases). Everything ready.
+Tool availability depends on your operating system and published packages. System tools such as Visual Studio use your existing installation.
 
 ---
 
-📌 Maintained by: @minhnguyenerp
+Built and maintained by [Minh Nguyen](https://github.com/minhnguyenerp). Have an idea or found a problem? **[Open an issue](https://github.com/minhnguyenerp/devkit3/issues)**.
 
-⭐ If you find this useful, consider starring the repo!
-
----
-
-[DevKit2 - Overview](https://github.com/minhnguyenerp/devkit2/blob/main/Document/Overview.md)
-
-[DevKit2 - WinMerge Notes](https://github.com/minhnguyenerp/devkit2/blob/main/Document/Winmerge.md)
-
-[DevKit2 - Avalonia Project](https://github.com/minhnguyenerp/devkit2/blob/main/Document/Avalonia.md)
+⭐ If DevKit3 helps your workflow, consider starring the project.
